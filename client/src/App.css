@@ -1,0 +1,21 @@
+.snapshot-list {
+  list-style:none;
+}
+
+.snapshot-list li {
+  float:left;
+}
+
+.snapshot-list li img {
+   width:100px;
+   height:100px;
+}
+
+.snapshot-row {
+  width:100%;
+  float:left;
+}
+
+.webcam-wrapper {
+  width:100%;
+}
